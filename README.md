@@ -9,5 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-# devolearn-web
-devolearn model lineage population deployed on a webapp
+# devolearn_lineag_population_huggingface_spaces
+devolearn lineage population model deployed in hugging face spaces using streamlit as backend..
+here in this model image of c elegans is given and a table is generated of differet cells..
